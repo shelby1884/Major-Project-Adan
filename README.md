@@ -1,3 +1,9 @@
+Actual Source code is in zip file.....
+
+Read the following instructions carefully.
+
+
+
 # Major-Project-Adan
 A responsive e-commerce platform using HTML, CSS, JavaScript, Tailwind CSS, React.js, Redux Toolkit, Formik, and Yup. 
 The platform should include a landing page, product listings, detailed product pages, a shopping cart, a multi-step checkout process,
